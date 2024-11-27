@@ -1,0 +1,72 @@
+[
+    {
+      "name": "Combo Nuggets",
+      "description": "20 nuggets + 2 papas regulares + 1 refresco",
+      "price": 10,
+      "type": "Combo",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Hamburguesa Simple",
+      "description": "Hamburguesa con carne y queso",
+      "price": 5,
+      "type": "Main",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Combo Familiar",
+      "description": "4 hamburguesas, 4 refrescos y papas familiares",
+      "price": 20,
+      "type": "Combo",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Ensalada César",
+      "description": "Lechuga, pollo y aderezo César",
+      "price": 8,
+      "type": "Salad",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Tiras de Pollo",
+      "description": "10 tiras de pollo con salsas",
+      "price": 12,
+      "type": "Snack",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Papas Fritas",
+      "description": "Papas fritas crujientes",
+      "price": 3,
+      "type": "Side",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Combo Deluxe",
+      "description": "Hamburguesa doble, papas grandes y refresco grande",
+      "price": 15,
+      "type": "Combo",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Helado de Vainilla",
+      "description": "Copa de helado de vainilla",
+      "price": 4,
+      "type": "Dessert",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Refresco Grande",
+      "description": "Refresco de 500ml",
+      "price": 2,
+      "type": "Drink",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Combo Vegetariano",
+      "description": "Hamburguesa vegetariana, papas y refresco",
+      "price": 11,
+      "type": "Combo",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]  
