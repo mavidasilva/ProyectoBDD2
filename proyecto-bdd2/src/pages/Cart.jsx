@@ -31,7 +31,7 @@ const Cart = () => {
   );
 
   const handleOrder = () => {
-    const baseUrl = "https://api.whatsapp.com/send?phone=584241517153&text=";
+    const baseUrl = "https://api.whatsapp.com/send?phone=584242524333&text=";
     let orderText = "Hola, quisiera ordenar lo siguiente:\n\n";
 
     cartProducts.forEach((product, index) => {

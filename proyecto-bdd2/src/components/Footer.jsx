@@ -6,17 +6,6 @@ import venupLogo from "/venUp.png";
 const Footer = () => {
   const location = useLocation();
 
-  if (location.pathname.includes("/productos")) {
-    return (
-      <footer className="bg-red-600 text-white py-4 text-center mt-auto">
-        <div className="container mx-auto flex items-center justify-center">
-          <img src={venupLogo} alt="VenUp Logo" className="footer-logo mb-2" />
-          <p className="text-center ml-2">Derechos Reservados</p>
-        </div>
-      </footer>
-    );
-  }
-
   return (
     <footer className="footer">
       <p>Redes Sociales - KFC</p>
