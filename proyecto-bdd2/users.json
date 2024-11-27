@@ -1,0 +1,71 @@
+[
+    {
+      "email": "user1@example.com",
+      "password": "123456",
+      "name": "John Doe",
+      "number": "123456789",
+      "role": "1"
+    },
+    {
+      "email": "user2@example.com",
+      "password": "123456",
+      "name": "Jane Smith",
+      "number": "987654321",
+      "role": "1"
+    },
+    {
+      "email": "user3@example.com",
+      "password": "123456",
+      "name": "Alice Johnson",
+      "number": "555555555",
+      "role": "1"
+    },
+    {
+      "email": "user4@example.com",
+      "password": "123456",
+      "name": "Bob Brown",
+      "number": "444444444",
+      "role": "1"
+    },
+    {
+      "email": "user5@example.com",
+      "password": "123456",
+      "name": "Eve Adams",
+      "number": "333333333",
+      "role": "1"
+    },
+    {
+      "email": "user6@example.com",
+      "password": "123456",
+      "name": "Charlie Davis",
+      "number": "222222222",
+      "role": "1"
+    },
+    {
+      "email": "user7@example.com",
+      "password": "123456",
+      "name": "Sophia White",
+      "number": "111111111",
+      "role": "1"
+    },
+    {
+      "email": "user8@example.com",
+      "password": "123456",
+      "name": "Liam Green",
+      "number": "666666666",
+      "role": "1"
+    },
+    {
+      "email": "user9@example.com",
+      "password": "123456",
+      "name": "Olivia Taylor",
+      "number": "777777777",
+      "role": "1"
+    },
+    {
+      "email": "user10@example.com",
+      "password": "123456",
+      "name": "Emma Lee",
+      "role": "1"
+    }
+  ]  
